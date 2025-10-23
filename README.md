@@ -36,7 +36,9 @@ From the above characteristic table, we can directly write the next state equati
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1006" height="571" alt="image" src="https://github.com/user-attachments/assets/1064b8e7-971e-4567-a8f0-50271d0d7f03" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1005" height="534" alt="image" src="https://github.com/user-attachments/assets/5200b96a-42a2-4618-93d2-8cad74a4040f" />
 
 **RESULTS**
